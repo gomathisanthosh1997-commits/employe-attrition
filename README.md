@@ -1,1 +1,1 @@
-# employe-attrition
+# customer segmentation
